@@ -39,3 +39,5 @@ app-example
 
 # API keys and configuration
 /config/
+# But allow example files
+!/config/*.example.js
